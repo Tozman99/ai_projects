@@ -1,2 +1,2 @@
-web: gunicorn ai_projects.wsgi
+web: gunicorn ai_project.wsgi
 
